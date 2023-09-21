@@ -1,0 +1,14 @@
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\Beetlejuice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\Beetlejuice.AssemblyInfoInputs.cache
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\Beetlejuice.AssemblyInfo.cs
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\Beetlejuice.csproj.CoreCompileInputs.cache
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\bin\Debug\net6.0\Beetlejuice.exe
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\bin\Debug\net6.0\Beetlejuice.deps.json
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\bin\Debug\net6.0\Beetlejuice.runtimeconfig.json
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\bin\Debug\net6.0\Beetlejuice.dll
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\bin\Debug\net6.0\Beetlejuice.pdb
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\Beetlejuice.dll
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\refint\Beetlejuice.dll
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\Beetlejuice.pdb
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\Beetlejuice.genruntimeconfig.cache
+C:\Users\carlt\Documents\Dev Class\Beetlejuice\Beetlejuice\obj\Debug\net6.0\ref\Beetlejuice.dll

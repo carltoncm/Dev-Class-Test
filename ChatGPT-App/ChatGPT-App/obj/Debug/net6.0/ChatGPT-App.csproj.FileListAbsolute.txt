@@ -1,0 +1,14 @@
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\bin\Debug\net6.0\ChatGPT-App.exe
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\bin\Debug\net6.0\ChatGPT-App.deps.json
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\bin\Debug\net6.0\ChatGPT-App.runtimeconfig.json
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\bin\Debug\net6.0\ChatGPT-App.dll
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\bin\Debug\net6.0\ChatGPT-App.pdb
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\ChatGPT-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\ChatGPT-App.AssemblyInfoInputs.cache
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\ChatGPT-App.AssemblyInfo.cs
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\ChatGPT-App.csproj.CoreCompileInputs.cache
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\ChatGPT-App.dll
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\refint\ChatGPT-App.dll
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\ChatGPT-App.pdb
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\ChatGPT-App.genruntimeconfig.cache
+C:\Users\carlt\Documents\Dev Class\ChatGPT-App\ChatGPT-App\obj\Debug\net6.0\ref\ChatGPT-App.dll
